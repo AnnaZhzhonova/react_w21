@@ -21,8 +21,8 @@ function App() {
         chartType="PieChart"
         data={data}
         options={options}
-        width={"100%"}
-        height={"400px"}
+        width={"1000px"}
+        height={"900px"}
       />
     </div>
   );
